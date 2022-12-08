@@ -1,0 +1,18 @@
+<kml>
+    <Placemark>
+        <name>Test Point</name>
+        <ExtendedData>
+            <Data name="some_attr_one">
+                <value>I am thing1.</value>
+            </Data>
+            <Data name="some_attr_two">
+                <value>I am thing2.</value>
+            </Data>
+        </ExtendedData>
+        <Point>
+            <extrude>0</extrude>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-111.23904861509796,46.35882082926133</coordinates>
+        </Point>
+    </Placemark>
+</kml>

@@ -1,0 +1,10 @@
+<kml>
+    <Placemark some_attr_one="I am thing1." some_attr_two="I am thing2.">
+        <name>Test Point</name>
+        <Point>
+            <extrude>0</extrude>
+            <altitudeMode>clampToGround</altitudeMode>
+            <coordinates>-111.23904861509796,46.35882082926133</coordinates>
+        </Point>
+    </Placemark>
+</kml>
